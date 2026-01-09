@@ -1,0 +1,15 @@
+# File:       .gitignore
+# Project:    Larsen
+# Repository: https://github.com/nessbe/larsen
+#
+# Copyright (c) 2026-present Nessbe
+# This file is part of the Larsen project and is licensed
+# under the terms specified in the LICENSE file located at the
+# root of this repository.
+#
+# Unless required by applicable law or agreed to in writing,
+# the software is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the LICENSE file for details.
+
+build/
